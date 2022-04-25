@@ -1,0 +1,8 @@
+package hr;
+
+public enum EmployeeType {
+    COMMISSIONED_BASE_SALARY_EMPLOYEE,
+    COMMISSIONED_EMPLOYEE,
+    HOURLY_EMPLOYEE,
+    SALARIED_EMPLOYEE
+}
